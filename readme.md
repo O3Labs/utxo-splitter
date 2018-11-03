@@ -16,4 +16,4 @@ This script will help split an UTXO into `N TXs` of `X gas` so you can use each 
 
 
 ### Example result
-https://neoscan-testnet.io/transaction/05FA9AE3302FEC755292266A7115E9F81189A033D5B95DD34D09F82E0259ED0
+https://neoscan-testnet.io/transaction/05FA9AE3302FEC755292266A7115E9F81189A033D5B95DD34D09F82E0259ED0C
