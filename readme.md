@@ -7,10 +7,10 @@ This script will help split an UTXO into `N TXs` of `X gas` so you can use each 
 
 
 ### Usage
-1. close this project
+1. clone this project
 2. Install neo-utils by `go get github.com/o3labs/neo-utils`
 3. open `main.go`
-4. edit `numberOfSplits` and `amountOfGas` and `network` variables to suits your need. 
+4. edit `numberOfSplits` and `amountOfGas` and `network` variables to suit your needs. 
 5. run it by `go run main.go`
 6. your will see the rax transaction hex string that is ready to be sent with `sendrawtransaction` 
 
