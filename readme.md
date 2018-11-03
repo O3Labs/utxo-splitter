@@ -12,7 +12,8 @@ This script will help split an UTXO into `N TXs` of `X gas` so you can use each 
 3. open `main.go`
 4. edit `numberOfSplits` and `amountOfGas` and `network` variables to suit your needs. 
 5. run it by `go run main.go`
-6. your will see the rax transaction hex string that is ready to be sent with `sendrawtransaction` 
+6. your will see a transaction id and raw transaction hex string that is ready to be sent with `sendrawtransaction` 
+7. send it and wait.
 
 
 ### Example result
